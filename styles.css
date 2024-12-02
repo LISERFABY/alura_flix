@@ -62,5 +62,4 @@ p {
 
    }
    .sic {
-display: -ms-grid;
-   }
+display: table;  }
