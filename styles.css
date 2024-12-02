@@ -62,5 +62,5 @@ p {
 
    }
    .sic {
-display: inline;
+display: -ms-grid;
    }
