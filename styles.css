@@ -59,7 +59,7 @@ p {
 
    }
    .sic {
-
+    text-align: center;
     color: rgb(228, 42, 82);
     border: 3px solid green;
     display: table-footer-group;
