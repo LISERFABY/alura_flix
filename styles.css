@@ -54,14 +54,15 @@ p {
     opacity: 1.0;
     border: 3px solid green;
 }
-
-H4 {
-    color: rgb(228, 42, 82);
-    border: 3px solid green;
-    display: table-footer-group;
-}
+  
 .smurfs {
 
    }
    .sic {
+
+    color: rgb(228, 42, 82);
+    border: 3px solid green;
+    display: table-footer-group;
+
+
  }
